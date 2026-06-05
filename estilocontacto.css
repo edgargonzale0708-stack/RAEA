@@ -5,7 +5,7 @@ html {
  }
 
 div#encabezado {
-  background-color: #CD5C5C;
+  background-color: #8B008B;
   text-align: center;
   font-size: 35px;
   color: white;
@@ -24,7 +24,7 @@ div#columna_principal{
         font-size: 18px;
         list-style-type:none;
         height: auto;
-        background-color: #8B4513;
+        background-color: #0000FF;
         }
 ul {
   list-style-type: none;
